@@ -1,6 +1,6 @@
 # Calculadora de recuento celular en cámara de Neubauer
 
-**Herramienta de apoyo al Procedimiento Técnico Metodológico PT-LC-01**
+**Herramienta de apoyo al Procedimiento Técnico Metodológico PT-LA-01**
 Servicio de Laboratorio Clínico · Hospital General Reynosa "Dr. José María Cantú Garza"
 Servicios de Salud IMSS-Bienestar · Reynosa, Tamaulipas, México
 
@@ -11,12 +11,12 @@ Servicios de Salud IMSS-Bienestar · Reynosa, Tamaulipas, México
 | Campo | Contenido |
 |---|---|
 | **Nombre de la herramienta** | Calculadora de recuento celular en cámara de Neubauer |
-| **Clave propuesta** | HA-LC-01 (pendiente de asignación por el Departamento de Calidad) |
+| **Clave propuesta** | HA-LA-01 (pendiente de asignación por el Departamento de Calidad) |
 | **Versión** | 1.0 |
 | **Fecha de liberación** | Agosto de 2026 |
-| **Documento del que deriva** | PT-LC-01 · Procedimiento Técnico Metodológico para el Estudio Citoquímico de Líquidos Corporales, numerales 9.2 y 14 |
+| **Documento del que deriva** | PT-LA-01 · Procedimiento Técnico Metodológico para el Estudio Citoquímico de Líquidos Corporales, numerales 9.2 y 14 |
 | **Área responsable** | Servicio de Laboratorio Clínico |
-| **Autor** | Q.F.B. Protacio [APELLIDOS] |
+| **Autor** | Q.F.B. Protacio Serna Ramírez |
 | **Tipo de recurso** | Aplicación web local, archivo HTML único, sin dependencias externas |
 | **Requiere internet** | No. Funciona sin conexión una vez descargada |
 | **Requiere instalación** | No |
@@ -88,8 +88,8 @@ Estos avisos son orientativos y no constituyen interpretación diagnóstica.
 1. **No sustituye la validación técnica ni clínica** del químico responsable del turno.
 2. **No corrige errores de técnica.** Un conteo mal ejecutado —cámara sobrellenada, sin reposo previo, con criterio de límite inconsistente o con reactivo inadecuado— produce un resultado erróneo que la herramienta calculará con exactitud. La capacitación supervisada al microscopio sigue siendo indispensable.
 3. **No realiza el conteo.** El número de células lo aporta el usuario.
-4. **No incorpora la corrección por punción traumática.** Esa corrección se aplica conforme al Anexo D del PT-LC-01.
-5. Los umbrales de referencia incorporados corresponden a los definidos en el PT-LC-01 y deben revisarse cuando dicho procedimiento se actualice.
+4. **No incorpora la corrección por punción traumática.** Esa corrección se aplica conforme al Anexo D del PT-LA-01.
+5. Los umbrales de referencia incorporados corresponden a los definidos en el PT-LA-01 y deben revisarse cuando dicho procedimiento se actualice.
 
 ---
 
@@ -131,7 +131,7 @@ El historial completo de modificaciones, con fecha y autor de cada cambio, se co
 Esta herramienta requiere revisión y autorización formal antes de su uso rutinario:
 
 - [ ] Verificación del fundamento de cálculo por el Responsable del Servicio de Laboratorio Clínico
-- [ ] Verificación de los umbrales de referencia contra el PT-LC-01 vigente
+- [ ] Verificación de los umbrales de referencia contra el PT-LA-01 vigente
 - [ ] Asignación de clave documental por el Departamento de Calidad y Seguridad del Paciente
 - [ ] Autorización de uso por la Subdirección Médica
 - [ ] Capacitación documentada del personal de los tres turnos
@@ -141,9 +141,9 @@ Esta herramienta requiere revisión y autorización formal antes de su uso rutin
 
 ## Aviso legal
 
-© 2026 Q.F.B. Protacio [APELLIDOS]. Todos los derechos reservados.
+© 2026 Q.F.B. Protacio Serna Ramírez. Todos los derechos reservados.
 
-Herramienta desarrollada para uso interno del Servicio de Laboratorio Clínico del Hospital General Reynosa "Dr. José María Cantú Garza", Servicios de Salud IMSS-Bienestar.
+Herramienta desarrollada para uso interno del Departamento de Laboratorio Clínico del Hospital General Reynosa "Dr. José María Cantú Garza", Servicios de Salud IMSS-Bienestar.
 
 No se autoriza su reproducción, modificación ni distribución sin consentimiento expreso del autor y de la institución.
 
@@ -155,5 +155,5 @@ Esta herramienta no constituye dispositivo médico ni software de diagnóstico. 
 
 ## Contacto
 
-Servicio de Laboratorio Clínico · Hospital General Reynosa "Dr. José María Cantú Garza"
+Departamento de Laboratorio Clínico · Hospital General Reynosa "Dr. José María Cantú Garza"
 Boulevard Álvaro Obregón #425, Col. Presa la Laguna, C.P. 88758, Reynosa, Tamaulipas
